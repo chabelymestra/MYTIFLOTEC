@@ -1,0 +1,19 @@
+[{
+"id": "0",
+"nombre": "alexander",
+"apellido": "toscano",
+"cedula": "107987789",
+"colegio": "Cristóbal colon",
+"curso":"11",
+"materia": "matemáticas"
+},
+{
+"id": "1",
+"nombre": "raúl",
+"apellido": "toscano",
+"cedula": "107987635",
+"colegio": "Cristóbal colon",
+"curso":"11",
+"materia": "informática"
+}
+]
